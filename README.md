@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Dakshina Perera<br>🔭 I'm currently working on - Multi-Domain RAG System<br>🤝 I'm looking to collaborate on - Open-source AI/ML projects and production AI applications<br>🆘 I'm looking for help with - MLOps best practices and scaling AI systems<br>📚 I'm currently learning - AWS and MLOps<br>💬 Ask me about - Building RAG systems, and fine-tuning models<br>🎯 Fun fact - I built a financial AI advisor that can chat about investments<br>🚀 Who am I - Aspiring AI/ML engineer building a portfolio of production-ready projects
+👋 Hi, I'm Dakshina Perera<br>🔭 I'm currently working on - Realtime Financial Fraud Detection System<br>🤝 I'm looking to collaborate on - Open-source AI/ML projects and production AI applications<br>🆘 I'm looking for help with - MLOps best practices and scaling AI systems<br>📚 I'm currently learning - AWS and MLOps<br>💬 Ask me about - Building RAG systems, and fine-tuning models<br>🎯 Fun fact - I built a financial AI advisor that can chat about investments<br>🚀 Who am I - Aspiring AI/ML engineer building a portfolio of production-ready projects
 
 
 ## 🌐 Socials:
